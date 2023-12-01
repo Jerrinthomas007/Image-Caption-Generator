@@ -54,7 +54,7 @@ All special characters were deleted
 'startseq' and 'endseq' tags were added to indicate the start and end of a caption for easier processing
 ## Model Information
 
-![App Screenshot](https://github.com/Jerrinthomas007/Image-Caption-Generator/blob/main/image%20caption%20model.png)
+![App Screenshot](https://github.com/Jerrinthomas007/images/blob/0dae38765bc1bda39133f04b4e2fac7167db4298/image%20caption%20model.png)
 
 **shape**=(4096,)- output length of the features from the VGG model
 
